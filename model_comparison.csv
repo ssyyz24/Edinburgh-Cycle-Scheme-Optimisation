@@ -1,0 +1,7 @@
+Metric,Baseline_Model,Extended_Model
+Objective Function (daily),"£-127,313.89","£-127,367.58"
+Capital Cost (Capex),"£822,500.00","£822,500.00"
+Rebalancing Cost (daily),£0.00,£53.69
+Stations / Docks,35 / 525,35 / 525
+Service Coverage,64.4%,64.4% (Reliability↑)
+Bikes Relocated,0,147

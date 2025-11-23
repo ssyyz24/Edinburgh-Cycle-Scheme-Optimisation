@@ -1,0 +1,9 @@
+metric,value
+baseline_daily_objective,-127313.89
+extended_daily_objective,-127367.58170802478
+baseline_5y_oper_objective,-232347849.25
+extended_5y_oper_objective,-232445836.6171452
+rebalancing_5y_cost,97987.36714521128
+baseline_5y_total_objective,-233170349.25
+extended_5y_total_objective,-233268336.6171452
+extended_minus_baseline_5y_total,-97987.3671452105

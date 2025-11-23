@@ -1,0 +1,141 @@
+station_id,station_name,capacity,period,period_idx,inventory_start,unmet_demand,demand
+1019,Grassmarket,15,AM,0,9.0,2.0,11
+1028,Hunter Square,15,AM,0,9.0,0.0,0
+1039,Lothian Road,15,AM,0,9.0,0.0,0
+1050,EICC,15,AM,0,9.0,6.0,15
+1052,Surgeons Hall,15,AM,0,9.0,0.0,0
+1090,Hillside Crescent,15,AM,0,9.0,6.0,15
+1091,Holyrood Road,15,AM,0,9.0,0.0,0
+1092,Dalry Road Lidl,15,AM,0,9.0,0.0,0
+1096,West Crosscauseway,15,AM,0,9.0,3.0,12
+1102,Haymarket Station,15,AM,0,9.0,0.0,0
+1720,Dundas Street,15,AM,0,9.0,0.0,5
+1721,Tollcross,15,AM,0,9.0,6.0,15
+1726,Simon Square,15,AM,0,9.0,0.0,0
+1727,Causewayside,15,AM,0,9.0,0.0,0
+1729,McDonald Road,15,AM,0,9.0,0.0,3
+1730,East London Street,15,AM,0,9.0,6.0,15
+1753,Waitrose Comely Bank,15,AM,0,9.0,0.0,6
+1763,Comely Bank Road,15,AM,0,9.0,0.0,2
+1765,Haymarket Terrace,15,AM,0,9.0,0.0,0
+1769,Brunswick Place,15,AM,0,9.0,0.0,7
+1798,Chambers Street,15,AM,0,9.0,0.0,3
+1818,Dynamic Earth,15,AM,0,9.0,0.0,0
+1823,Boroughmuir,15,AM,0,9.0,3.0,12
+183,Waverley Bridge,15,AM,0,9.0,0.0,0
+189,City Chambers,15,AM,0,9.0,0.0,0
+225,Waverley Court,15,AM,0,9.0,0.0,7
+2268,Picardy Place,15,AM,0,9.0,0.0,0
+246,Royal Commonwealth Pool,15,AM,0,9.0,0.0,0
+248,Bristo Square,15,AM,0,9.0,0.0,0
+251,Waverley Station,15,AM,0,9.0,0.0,2
+256,St Andrews House,15,AM,0,9.0,0.0,0
+258,Stockbridge,15,AM,0,9.0,0.0,0
+265,Meadows East,15,AM,0,9.0,0.0,2
+289,Castle Street,15,AM,0,9.0,0.0,0
+349,Orchard Brae House,15,AM,0,9.0,0.0,0
+1019,Grassmarket,15,OP,1,9.0,0.0,4
+1028,Hunter Square,15,OP,1,12.0,0.0,9
+1039,Lothian Road,15,OP,1,15.0,0.0,0
+1050,EICC,15,OP,1,2.0,0.0,0
+1052,Surgeons Hall,15,OP,1,10.0,0.0,5
+1090,Hillside Crescent,15,OP,1,11.0,0.0,11
+1091,Holyrood Road,15,OP,1,15.0,0.0,0
+1092,Dalry Road Lidl,15,OP,1,15.0,0.0,0
+1096,West Crosscauseway,15,OP,1,15.0,0.0,9
+1102,Haymarket Station,15,OP,1,13.0,0.0,0
+1720,Dundas Street,15,OP,1,8.0,0.0,0
+1721,Tollcross,15,OP,1,8.0,0.0,6
+1726,Simon Square,15,OP,1,14.0,0.0,3
+1727,Causewayside,15,OP,1,11.0,0.0,0
+1729,McDonald Road,15,OP,1,3.0,0.0,3
+1730,East London Street,15,OP,1,7.0,0.0,0
+1753,Waitrose Comely Bank,15,OP,1,6.0,0.0,0
+1763,Comely Bank Road,15,OP,1,5.0,0.0,0
+1765,Haymarket Terrace,15,OP,1,15.0,0.0,0
+1769,Brunswick Place,15,OP,1,15.0,0.0,8
+1798,Chambers Street,15,OP,1,11.0,0.0,9
+1818,Dynamic Earth,15,OP,1,12.0,0.0,0
+1823,Boroughmuir,15,OP,1,3.0,0.0,0
+183,Waverley Bridge,15,OP,1,14.0,0.0,2
+189,City Chambers,15,OP,1,15.0,0.0,0
+225,Waverley Court,15,OP,1,2.0,0.0,0
+2268,Picardy Place,15,OP,1,15.0,0.0,8
+246,Royal Commonwealth Pool,15,OP,1,15.0,0.0,9
+248,Bristo Square,15,OP,1,15.0,0.0,15
+251,Waverley Station,15,OP,1,7.0,0.0,0
+256,St Andrews House,15,OP,1,13.0,0.0,10
+258,Stockbridge,15,OP,1,10.0,0.0,1
+265,Meadows East,15,OP,1,13.0,0.0,0
+289,Castle Street,15,OP,1,15.0,0.0,5
+349,Orchard Brae House,15,OP,1,15.0,0.0,0
+1019,Grassmarket,15,PM,2,15.0,0.0,2
+1028,Hunter Square,15,PM,2,10.0,0.0,10
+1039,Lothian Road,15,PM,2,15.0,0.0,15
+1050,EICC,15,PM,2,15.0,0.0,10
+1052,Surgeons Hall,15,PM,2,4.0,0.0,4
+1090,Hillside Crescent,15,PM,2,0.0,0.0,0
+1091,Holyrood Road,15,PM,2,15.0,0.0,0
+1092,Dalry Road Lidl,15,PM,2,15.0,0.0,2
+1096,West Crosscauseway,15,PM,2,6.0,0.0,6
+1102,Haymarket Station,15,PM,2,15.0,0.0,0
+1720,Dundas Street,15,PM,2,8.0,0.0,8
+1721,Tollcross,15,PM,2,15.0,0.0,0
+1726,Simon Square,15,PM,2,11.0,0.0,1
+1727,Causewayside,15,PM,2,15.0,0.0,11
+1729,McDonald Road,15,PM,2,0.0,0.0,0
+1730,East London Street,15,PM,2,8.0,0.0,8
+1753,Waitrose Comely Bank,15,PM,2,15.0,0.0,6
+1763,Comely Bank Road,15,PM,2,15.0,0.0,7
+1765,Haymarket Terrace,15,PM,2,15.0,0.0,15
+1769,Brunswick Place,15,PM,2,13.0,0.0,13
+1798,Chambers Street,15,PM,2,7.0,0.0,7
+1818,Dynamic Earth,15,PM,2,15.0,0.0,5
+1823,Boroughmuir,15,PM,2,15.0,0.0,0
+183,Waverley Bridge,15,PM,2,12.0,0.0,0
+189,City Chambers,15,PM,2,9.0,0.0,0
+225,Waverley Court,15,PM,2,11.0,0.0,0
+2268,Picardy Place,15,PM,2,10.0,0.0,10
+246,Royal Commonwealth Pool,15,PM,2,15.0,0.0,0
+248,Bristo Square,15,PM,2,10.0,0.0,10
+251,Waverley Station,15,PM,2,10.0,0.0,2
+256,St Andrews House,15,PM,2,0.0,0.0,0
+258,Stockbridge,15,PM,2,15.0,0.0,0
+265,Meadows East,15,PM,2,15.0,0.0,13
+289,Castle Street,15,PM,2,15.0,0.0,14
+349,Orchard Brae House,15,PM,2,15.0,0.0,0
+1019,Grassmarket,15,END,3,13.0,0.0,0
+1028,Hunter Square,15,END,3,0.0,0.0,0
+1039,Lothian Road,15,END,3,0.0,0.0,0
+1050,EICC,15,END,3,5.0,0.0,0
+1052,Surgeons Hall,15,END,3,0.0,0.0,0
+1090,Hillside Crescent,15,END,3,5.0,0.0,0
+1091,Holyrood Road,15,END,3,24.0,0.0,0
+1092,Dalry Road Lidl,15,END,3,13.0,0.0,0
+1096,West Crosscauseway,15,END,3,0.0,0.0,0
+1102,Haymarket Station,15,END,3,23.0,0.0,0
+1720,Dundas Street,15,END,3,0.0,0.0,0
+1721,Tollcross,15,END,3,24.0,0.0,0
+1726,Simon Square,15,END,3,10.0,0.0,0
+1727,Causewayside,15,END,3,4.0,0.0,0
+1729,McDonald Road,15,END,3,8.0,0.0,0
+1730,East London Street,15,END,3,0.0,0.0,0
+1753,Waitrose Comely Bank,15,END,3,9.0,0.0,0
+1763,Comely Bank Road,15,END,3,8.0,0.0,0
+1765,Haymarket Terrace,15,END,3,0.0,0.0,0
+1769,Brunswick Place,15,END,3,0.0,0.0,0
+1798,Chambers Street,15,END,3,0.0,0.0,0
+1818,Dynamic Earth,15,END,3,10.0,0.0,0
+1823,Boroughmuir,15,END,3,19.0,0.0,0
+183,Waverley Bridge,15,END,3,19.0,0.0,0
+189,City Chambers,15,END,3,15.0,0.0,0
+225,Waverley Court,15,END,3,24.0,0.0,0
+2268,Picardy Place,15,END,3,0.0,0.0,0
+246,Royal Commonwealth Pool,15,END,3,18.0,0.0,0
+248,Bristo Square,15,END,3,0.0,0.0,0
+251,Waverley Station,15,END,3,8.0,0.0,0
+256,St Andrews House,15,END,3,14.0,0.0,0
+258,Stockbridge,15,END,3,25.0,0.0,0
+265,Meadows East,15,END,3,2.0,0.0,0
+289,Castle Street,15,END,3,1.0,0.0,0
+349,Orchard Brae House,15,END,3,15.0,0.0,0
