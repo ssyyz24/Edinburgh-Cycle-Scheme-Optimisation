@@ -1,0 +1,36 @@
+station_id,name,address,rental_uris,lat,lon,capacity,selected,docks
+1019,Grassmarket,"outside 86-88 Grassmarket, Edinburgh, EH1 2JR","{'android': 'edinburghcyclehire://stations/1019', 'ios': 'edinburghcyclehire://stations/1019'}",55.947097278583385,-3.1972457326126005,14,1,15
+1028,Hunter Square,"122 High Street, Edinburgh, EH1 1SG","{'android': 'edinburghcyclehire://stations/1028', 'ios': 'edinburghcyclehire://stations/1028'}",55.94979756563328,-3.1877950320129003,23,1,15
+1039,Lothian Road,"Lothian Road, Edinburgh, EH1 2EA","{'android': 'edinburghcyclehire://stations/1039', 'ios': 'edinburghcyclehire://stations/1039'}",55.94740919920712,-3.2057654971365537,46,1,15
+1050,EICC,"150 Morrison St, Edinburgh EH3 8EE","{'android': 'edinburghcyclehire://stations/1050', 'ios': 'edinburghcyclehire://stations/1050'}",55.94607055533778,-3.2103963310007657,25,1,15
+1052,Surgeons Hall,"Nicolson St, Edinburgh EH8 9DW","{'android': 'edinburghcyclehire://stations/1052', 'ios': 'edinburghcyclehire://stations/1052'}",55.94664279961712,-3.185474585938892,23,1,15
+1090,Hillside Crescent,Opposite 34 Hillside Cres Edinburgh EH7 5EF,"{'android': 'edinburghcyclehire://stations/1090', 'ios': 'edinburghcyclehire://stations/1090'}",55.95787194536338,-3.175888370919665,22,1,15
+1091,Holyrood Road,"Holyrood Rd, Edinburgh EH8 8AQ","{'android': 'edinburghcyclehire://stations/1091', 'ios': 'edinburghcyclehire://stations/1091'}",55.94955950619123,-3.180413257527789,32,1,15
+1092,Dalry Road Lidl,"Dalry Rd, Edinburgh EH11 2EF","{'android': 'edinburghcyclehire://stations/1092', 'ios': 'edinburghcyclehire://stations/1092'}",55.94179129688128,-3.2224153095965,17,1,15
+1096,West Crosscauseway,"West Crosscauseway, Edinburgh, EH8 9AT","{'android': 'edinburghcyclehire://stations/1096', 'ios': 'edinburghcyclehire://stations/1096'}",55.9438359841253,-3.1849514084976818,31,1,15
+1102,Haymarket Station,"Haymarket Terrace, Edinburgh, EH12 5EY","{'android': 'edinburghcyclehire://stations/1102', 'ios': 'edinburghcyclehire://stations/1102'}",55.94556945067266,-3.21818468327956,20,1,15
+1720,Dundas Street,"Airlie Place, Edinburgh, EH3 5DT","{'android': 'edinburghcyclehire://stations/1720', 'ios': 'edinburghcyclehire://stations/1720'}",55.9607624081837,-3.201278014771333,22,1,15
+1721,Tollcross,"High Riggs, Edinburgh, EH3 9RP","{'android': 'edinburghcyclehire://stations/1721', 'ios': 'edinburghcyclehire://stations/1721'}",55.944248052468346,-3.2031045991104747,25,1,15
+1726,Simon Square,"Simon Square, Edinburgh, EH8 9HP","{'android': 'edinburghcyclehire://stations/1726', 'ios': 'edinburghcyclehire://stations/1726'}",55.94485886752089,-3.182589723460069,22,1,15
+1727,Causewayside,"Causewayside, Edinburgh, EH9 1PR","{'android': 'edinburghcyclehire://stations/1727', 'ios': 'edinburghcyclehire://stations/1727'}",55.93650603148236,-3.1801663476151134,21,1,15
+1729,McDonald Road,"McDonald Rd, Edinburgh EH7 4NS","{'android': 'edinburghcyclehire://stations/1729', 'ios': 'edinburghcyclehire://stations/1729'}",55.9640310527501,-3.1851753729504253,23,1,15
+1730,East London Street,"East London St, Edinburgh EH7 4BW","{'android': 'edinburghcyclehire://stations/1730', 'ios': 'edinburghcyclehire://stations/1730'}",55.95995414501485,-3.1871977585476543,25,1,15
+1753,Waitrose Comely Bank,"38 Comely Bank Rd, Edinburgh EH4 1AW","{'android': 'edinburghcyclehire://stations/1753', 'ios': 'edinburghcyclehire://stations/1753'}",55.95953624971772,-3.223434402338853,17,1,15
+1763,Comely Bank Road,"Comely Bank Road, Edinburgh EH4 1DW","{'android': 'edinburghcyclehire://stations/1763', 'ios': 'edinburghcyclehire://stations/1763'}",55.95941012836135,-3.2156613606136943,16,1,15
+1765,Haymarket Terrace,"90 Haymarket Terrace, Edinburgh EH12 5LQ","{'android': 'edinburghcyclehire://stations/1765', 'ios': 'edinburghcyclehire://stations/1765'}",55.946063966641006,-3.2230240243595745,23,1,15
+1769,Brunswick Place,"Brunswick Place, Edinburgh EH7 5HU","{'android': 'edinburghcyclehire://stations/1769', 'ios': 'edinburghcyclehire://stations/1769'}",55.96085174106396,-3.180985762469163,31,1,15
+1798,Chambers Street,"Chambers St, Edinburgh EH1 1JF","{'android': 'edinburghcyclehire://stations/1798', 'ios': 'edinburghcyclehire://stations/1798'}",55.94760044619224,-3.188919736735216,25,1,15
+1818,Dynamic Earth,"Holyrood Rd, Edinburgh EH8 8AS","{'android': 'edinburghcyclehire://stations/1818', 'ios': 'edinburghcyclehire://stations/1818'}",55.951089465236365,-3.17572460948655,35,1,15
+1823,Boroughmuir,"Bainfield Dr, Edinburgh EH11 1JL","{'android': 'edinburghcyclehire://stations/1823', 'ios': 'edinburghcyclehire://stations/1823'}",55.94007146917616,-3.215335840688084,25,1,15
+183,Waverley Bridge,Waverley Bridge,"{'android': 'edinburghcyclehire://stations/183', 'ios': 'edinburghcyclehire://stations/183'}",55.951980756193535,-3.191890332557904,31,1,15
+189,City Chambers,High Street,"{'android': 'edinburghcyclehire://stations/189', 'ios': 'edinburghcyclehire://stations/189'}",55.95010933017899,-3.190257770093808,17,1,15
+225,Waverley Court,"Waverley Court, East Market Street","{'android': 'edinburghcyclehire://stations/225', 'ios': 'edinburghcyclehire://stations/225'}",55.95173449698344,-3.1841785354060903,13,1,15
+2268,Picardy Place,Picady Place,"{'android': 'edinburghcyclehire://stations/2268', 'ios': 'edinburghcyclehire://stations/2268'}",55.95653524179326,-3.1862476120746805,31,1,15
+246,Royal Commonwealth Pool,"Dalkeith Road, Edinburgh EH16 5BB","{'android': 'edinburghcyclehire://stations/246', 'ios': 'edinburghcyclehire://stations/246'}",55.93900024788877,-3.173923554315593,20,1,15
+248,Bristo Square,"Bristo Square, Potterrow","{'android': 'edinburghcyclehire://stations/248', 'ios': 'edinburghcyclehire://stations/248'}",55.94583371599285,-3.189053072075467,62,1,15
+251,Waverley Station,Waverley Station Concourse,"{'android': 'edinburghcyclehire://stations/251', 'ios': 'edinburghcyclehire://stations/251'}",55.952641035774384,-3.187526919462357,19,1,15
+256,St Andrews House,Regent Road,"{'android': 'edinburghcyclehire://stations/256', 'ios': 'edinburghcyclehire://stations/256'}",55.95316433242384,-3.181682340931843,18,1,15
+258,Stockbridge,"1, Dean Bank Lane","{'android': 'edinburghcyclehire://stations/258', 'ios': 'edinburghcyclehire://stations/258'}",55.95856558589723,-3.208070182227744,21,1,15
+265,Meadows East,"Sciennes, Edinburgh EH9 1NH","{'android': 'edinburghcyclehire://stations/265', 'ios': 'edinburghcyclehire://stations/265'}",55.939809466328285,-3.182738850746432,39,1,15
+289,Castle Street,Castle Street,"{'android': 'edinburghcyclehire://stations/289', 'ios': 'edinburghcyclehire://stations/289'}",55.95150073734976,-3.2031839065252825,38,1,15
+349,Orchard Brae House,30 Queensferry Road,"{'android': 'edinburghcyclehire://stations/349', 'ios': 'edinburghcyclehire://stations/349'}",55.95508276879095,-3.2236342639564555,17,1,15
